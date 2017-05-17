@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>artistName</key>
+		<string>Song1</string>
+		<key>albumName</key>
+		<string>THRILLER</string>
+		<key>songName</key>
+		<string>Song1</string>
+		<key>albumArtwork</key>
+		<string>Music.png</string>
+	</dict>
+	<dict>
+		<key>artistName</key>
+		<string>Song2</string>
+		<key>albumName</key>
+		<string>THRILLER</string>
+		<key>songName</key>
+		<string>Song2</string>
+		<key>albumArtwork</key>
+		<string>Music.png</string>
+	</dict>
+	<dict>
+		<key>artistName</key>
+		<string>Song3</string>
+		<key>albumName</key>
+		<string>THRILLER</string>
+		<key>songName</key>
+		<string>Song3</string>
+		<key>albumArtwork</key>
+		<string>Music.png</string>
+	</dict>
+	<dict>
+		<key>artistName</key>
+		<string>Song4</string>
+		<key>albumName</key>
+		<string>THRILLER</string>
+		<key>songName</key>
+		<string>Song4</string>
+		<key>albumArtwork</key>
+		<string>Music.png</string>
+	</dict>
+</array>
+</plist>
